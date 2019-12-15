@@ -14,3 +14,5 @@ What we will have is the simulation of basic facebook features and actions. Thes
     - Log out
     - Show friends list
     - Add a friend
+
+In your terminal, run: ``python3 main.py``
